@@ -1,0 +1,11 @@
+Comment ajouter une redirection ?
+
+- il suffit d'ajouter a la deuxième ligne "CD C:/Users..." et d'ajouter "start NomDuFichier"
+
+Exemple : Ouvrir Pc simulator 
+
+```@echo off
+CD C:\Users\Ariza\OneDrive\Bureau\PC Building Simulator
+start PCBS.exe
+exit
+```
